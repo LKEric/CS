@@ -1,0 +1,2 @@
+C:\CS\BookLib\BookLib\obj\Debug\BookLib.csprojAssemblyReference.cache
+C:\CS\BookLib\BookLib\obj\Debug\BookLib.csproj.CoreCompileInputs.cache

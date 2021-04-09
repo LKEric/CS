@@ -1,0 +1,10 @@
+C:\CS\Lab03oc\Lab03oc\bin\Debug\Lab03oc.exe.config
+C:\CS\Lab03oc\Lab03oc\bin\Debug\Lab03oc.exe
+C:\CS\Lab03oc\Lab03oc\bin\Debug\Lab03oc.pdb
+C:\CS\Lab03oc\Lab03oc\obj\Debug\Lab03oc.csprojAssemblyReference.cache
+C:\CS\Lab03oc\Lab03oc\obj\Debug\Lab03oc.Form1.resources
+C:\CS\Lab03oc\Lab03oc\obj\Debug\Lab03oc.Properties.Resources.resources
+C:\CS\Lab03oc\Lab03oc\obj\Debug\Lab03oc.csproj.GenerateResource.cache
+C:\CS\Lab03oc\Lab03oc\obj\Debug\Lab03oc.csproj.CoreCompileInputs.cache
+C:\CS\Lab03oc\Lab03oc\obj\Debug\Lab03oc.exe
+C:\CS\Lab03oc\Lab03oc\obj\Debug\Lab03oc.pdb
